@@ -63,10 +63,9 @@ import_tables:
 一下 [ ~9 ]	g
 还是 [ ~4 ]	h
 还有 [ ~3 ]	h
-这么 [ ~; ]	i
+这么 [ ~3 ]	i
 自己 [ ~b ]	i
 只是 [ ~4 ]	i
-之后 [ ~3 ]	i
 今天 [ ~4 ]	j
 几个 [ ~3 ]	j
 开始 [ ~; ]	k
@@ -120,10 +119,9 @@ import_tables:
 一下	g9
 还是	h4
 还有	h3
-这么	i;
+这么	i3
 自己	ib
 只是	i4
-之后	i3
 今天	j4
 几个	j3
 开始	k;
@@ -242,7 +240,7 @@ import_tables:
 将	hw	hw389
 站	hy	hy389
 化	hz	hz389
-再	i,	i,389
+再	i;	i;389
 怎	i.	i.389
 住	i/	i/389
 种	ic	ic389
@@ -7325,7 +7323,7 @@ hy	ihu/
 化	hjzv
 hz	hjzv
 再	ifaa
-i,	ifaa
+i;	ifaa
 怎	itv;
 i.	itv;
 住	ij;aa

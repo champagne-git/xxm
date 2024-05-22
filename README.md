@@ -17,6 +17,10 @@
 
 #### 修改
 ```
+岚	loz/ -> loz/;
+赂	loz/a -> loz/
+欠	qw/ -> qw
+卿	qw -> qwv
 是	fn -> si
 思	sn -> fn
 连	ln -> ls
@@ -26,8 +30,9 @@
 办	b/ -> b.
 八	bm; -> b/
 母	m; -> mq
-岚	loz/ -> loz/;
-赂	loz/a -> loz/
+再	i, -> i;
+这么	i; -> i3
+- 之后	i3
 ```
 
 #### 容错
