@@ -117,6 +117,7 @@ recognizer:
 
 menu:
   page_size: 10
-  alternative_select_keys: "QWERTYUIOP"
+  alternative_select_keys: "_125670QWE"
+  # alternative_select_keys: "QWERTYUIOP"
+  # alternative_select_labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
   # alternative_select_labels: ["①", "②", "③", "④", "⑤", "⑥", "⑦", "⑧", "⑨", "⑩"]
-  alternative_select_labels: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
