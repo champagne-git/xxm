@@ -21,13 +21,14 @@ import_tables:
   - xxm_cizu
 ...
 
-# 新增单字
+# 新增
 屌	db/o	db389
 濛	mdeu	md389
 箓	ltvu;	lt389
 臜	iveo	iv389
 嚱	xiua;	xi389
-# 容错码
+嬛	hso	hs389
+# 容错
 噫	yi;o;	yi389
 
 不过	b
