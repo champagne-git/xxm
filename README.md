@@ -7,6 +7,15 @@
 臜	iveo
 嚱	xiua;
 嬛	hso
+啰	lioz
+嗞	ii/v;
+垅	lua;
+捱	rkau
+玦	jgv;;
+磺	haa
+糸	sxu;
+鲶	nw/v
+齁	hrz/a
 ```
 
 #### 新增词组
